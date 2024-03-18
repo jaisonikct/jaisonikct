@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Javascript and React<br>🎯 Goals:  Master a New Programming Language or Technology 🚀<br> 👯 I’m looking to collaborate on any python related project <br> ⚡ Fun fact: What goes around comes around</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Javascript and React<br> 👯 I’m looking to collaborate on any python related project<br>🎯 Goals:  Master a New Programming Language or Technology 🚀<br> ⚡ Fun fact: What goes around comes around</p>
 
 ###
 
